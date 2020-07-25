@@ -18,4 +18,4 @@ This repository houses resources used in all Pyladies Bhubaneswar meetups till d
 | [Alisha Mohanty](https://github.com/alishamohanty) | A noob's guide to Django | [Link to slides](2019/Noobs-guide-to-Django.pdf)  |
 | [NVS Abhishek](https://github.com/NVS16) | Python is cool | [Link to slides](2019/Python-is-cool.pdf) |
 | [Divya Rani](https://github.com/Divya063) | Competitive Programming | [Link to slides](2019/Competitive-Programming.pdf) |
-| [Shashwat Sourav Swain](https://github.com/swainshashwat) | Machine Learning | [Link to slides]() |
+| [Shashwat Sourav Swain](https://github.com/swainshashwat) | Machine Learning | [Link to slides](2019/ML-presentation.pdf) |
