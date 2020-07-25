@@ -2,7 +2,7 @@
 
 This repository houses resources used in all Pyladies Bhubaneswar meetups till date.
 
-25 July 2020
+**25 July 2020**
 
 | Speaker | Topic | Link |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ This repository houses resources used in all Pyladies Bhubaneswar meetups till d
 | [Mahima Gupta](https://github.com/mahima1997) | Introduction to Basic boosting algorithms in ML |[Link to slides]()  |
 | [Lucky Suman](https://github.com/lucky-suman) | Step by step text preprocessing for NLP |[Link to slides]()  |
 
-25 July 2019
+**25 July 2019**
 
 | Speaker | Topic | Link |
 | --- | --- | --- |
