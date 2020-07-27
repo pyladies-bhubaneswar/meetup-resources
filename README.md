@@ -2,12 +2,14 @@
 
 This repository houses resources used in all Pyladies Bhubaneswar meetups till date.
 
-**25 July 2020**
+**25 July 2020(Virtual)**
+
+Find it on [YouTube](https://www.youtube.com/watch?v=Q95172c43Y4)
 
 | Speaker | Topic | Link |
 | --- | --- | --- |
-| [Amitosh Swain Mohapatra](https://github.com/agathver) | Static typed Python with MyPy | [Link to slides](2020/Static%20Typing%20in%20Python%20with%20MyPy.pdf) |
-| [Mahima Gupta](https://github.com/mahima1997) | Introduction to Basic boosting algorithms in ML |[Link to slides]()  |
+| [Amitosh Swain Mohapatra](https://github.com/agathver) | Static typed Python with MyPy | [Link to slides](2020/Static-Typing-in-Python-with-MyPy.pdf) |
+| [Mahima Gupta](https://github.com/mahima1997) | Introduction to Basic boosting algorithms in ML |[Link to slides](2020/Pyladies-Boosting-Algos.pdf)  |
 | [Lucky Suman](https://github.com/lucky-suman) | Step by step text preprocessing for NLP |[Link to slides]()  |
 
 **25 July 2019**
