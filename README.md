@@ -10,7 +10,7 @@ Find it on [YouTube](https://www.youtube.com/watch?v=Q95172c43Y4)
 | --- | --- | --- |
 | [Amitosh Swain Mohapatra](https://github.com/agathver) | Static typed Python with MyPy | [Link to slides](2020/Static-Typing-in-Python-with-MyPy.pdf) |
 | [Mahima Gupta](https://github.com/mahima1997) | Introduction to Basic boosting algorithms in ML |[Link to slides](2020/Pyladies-Boosting-Algos.pdf)  |
-| [Lucky Suman](https://github.com/lucky-suman) | Step by step text preprocessing for NLP |[Link to slides]()  |
+| [Lucky Suman](https://github.com/lucky-suman) | Step by step text preprocessing for NLP |[Link to notebook](2020/Step-by-step-text-preprocessing.ipynb)  |
 
 **25 July 2019**
 
